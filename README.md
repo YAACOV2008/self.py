@@ -1,0 +1,2 @@
+• As part of my journey in the Self.py course, I built a classic Hangman game using Python, applying core programming concepts such as conditionals, loops, string manipulation, and user input handling.
+• The game challenges users to guess a hidden word, letter by letter, with visual feedback and error tracking. It emphasizes logic design and control flow, wrapped in an interactive terminal-based experience.
